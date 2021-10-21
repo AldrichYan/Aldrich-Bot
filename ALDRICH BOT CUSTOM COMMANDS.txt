@@ -1,0 +1,265 @@
+
+fan: function(arg, by, room)
+	{
+		this.say(room, "If " + arg + " has million number of fans I am one of them. If " + arg + " has ten fans I am one of them. If " + arg + " have only one fan and that is me . If " + arg + " has no fans, that means I am no more on the earth . If the world is against the " + arg + " , I am against the world!!");
+	},
+fanspanish: function(arg, by, room)
+	{
+		this.say(room,"!code Si "+ arg +" tiene 1 millon de fanáticos, yo soy uno de ellos. Si "+ arg +" tiene 100 fanáticos, yo soy uno de ellos. Si "+ arg +" tiene 10 fanáticos, yo soy uno de ellos. Si "+ arg +" tiene 1 fanático, ese soy yo. Si no tiene ninguno, significa que he muerto. Si el mundo esta contra "+ arg +", yo estoy contra el mundo. VAMOS "+ arg +" ");
+	},
+
+fanportuguese: function(arg, by, room)
+    {
+        this.say(room,"Se "+ arg +" tem 1 milhão de fãs, eu sou um deles. Se  "+ arg +"  tem 100 fãs, eu sou um deles. Se "+ arg +"  tem 10 fãs, eu sou um deles. Se "+ arg +"  tem 1 fã, esse sou eu. Se não tem nenhum, significa que morri. Se o mundo está contra "+ arg +" , eu estou contra o mundo."
+);
+    },
+fanfinnish: function(arg, by, room)
+    {
+        this.say(room,"Jos "+ arg +":llä on miljoona fania, olen yksi niistä. Jos "+ arg +":llä on 10 fania olen yksi niistä. Jos "+ arg +":llä on 1 fani se olen minä. Jos "+ arg +":llä ei ole yhtään fania, minä en ole enää olemassa. Jos maailma on "+ arg +":htä vastaan, minä olen maailmaa vastaan."
+);
+    },
+fanhindi: function(arg, by, room)
+    {this.say(room, `!code अगर ${arg} के दस लाख प्रशंसक हैं, तो मैं उनमें से एक हूं। यदि ${arg} के दस प्रशंसक हैं, तो मैं उनमें से एक हूं। अगर ${arg} का केवल एक प्रशंसक है, तो वह मैं हूं। यदि ${arg} का कोई प्रशंसक नहीं है, तो इसका मतलब है कि मैं पृथ्वी पर नहीं हूं। अगर दुनिया ${arg} के खिलाफ है, तो मैं दुनिया के खिलाफ हूं।`
+        
+);
+    },
+
+
+ald: function(arg, by, room)
+    {
+        let aldList =
+        [
+            
+            "WIN",
+        "LOSE",
+"!pick ALDWIN,ALDLOSE",
+        ];
+ 
+        let aldNum = parseInt(arg);
+        if (!arg)
+        {
+            let rand = Math.floor(aldList.length * Math.random());
+            aldNum = rand;
+        }
+ 
+        let text = aldList[aldNum];
+        if (text == undefined)
+        {
+            text = "Aldrich can't count.";
+            this.say(room, "/pm " + by + ", You entered an invalid ald thing. Valid ald numbers are 0-" + (aldList.length - 1) + ".");
+        }
+        this.say(room, text);
+    },
+psyspam: function(arg, by, room)
+	{
+		this.say(room, "the call");
+	},
+aldquote: function(arg, by, room)
+    {
+        let aldquoteList =
+        [
+            
+"Y'all Know what time it is... Its Sheer cold time!",
+"Follow Mitch On Twitch at https://www.twitch.tv/kendrink_",         
+"HEE HOO FAKE OUT GEOMANCY LETS GO!",
+ "Good Players Dont Miss!",
+"Sheer Cold is the Play, Sheer Cold is the way!!",
+"When in doubt, Rock Slide Out!",
+"JEH JEH JEHHH",
+"mish mish",
+"GET ON MY LEVEL!!",
+"I am the ALDRICHYAN",
+"you wanna play bro? you wanna play??? I see how it is. You wanna play??",
+"I'm so good at this game (Me, after getting my needed hax)",
+"VGC is a 2 player game , always believe in the ability of your opponents to throw!!",
+"Welcome to the AldrichYan Champions Cup 1v1 where winner gets to choose the format of your choice!",
+
+        ];
+ 
+        let aldquoteNum = parseInt(arg);
+        if (!arg)
+        {
+            let rand = Math.floor(aldquoteList.length * Math.random());
+            aldquoteNum = rand;
+        }
+ 
+        let text = aldquoteList[aldquoteNum];
+        if (text == undefined)
+        {
+            text = "You suck at counting. Go learn maths";
+            this.say(room, "/pm " + by + ", You entered an invalid ald quote thing. Valid ald numbers are 0-" + (aldquoteList.length - 1) + ".");
+        }
+        this.say(room, text);
+    },
+
+rip: function(arg, by, room)
+	{
+		this.say(room, "Ray is the play!");
+	},
+spacial: function(arg, by, room)
+	{
+		this.say(room, "friends");
+	},
+perishian: function(arg, by, room)
+	{
+		this.say(room, "Perishians are connoisseurs of comfort");
+	},
+magnezone: function(arg, by, room)
+	{
+		this.say(room, "heroic saga");
+	},
+
+ezrael: function(arg, by, room)
+	{
+		this.say(room, ":teamjon:");
+	},
+
+mished: function(arg, by, room)
+	{
+		if (!arg) return this.say("mish mish");
+		arg = arg.trim();
+		this.say(room,`!dt dewgong`);
+		this.say(room,`get MISHED ${arg}`);
+		this.say(room,`/pm ${arg}, http://spo.ink/uhohyoufriccinmoron ${by}`);
+		this.say(room,`/pm ${arg},with love from ${by}`);
+	},
+jeh: function(arg, by, room)
+	{
+		this.say(room, "JEH " + arg + " JEH");
+	},
+jeh2: function(arg, by, room)
+	{
+		this.say(room, "SPAM THIS JEH TO HELP ALD WIN SPAM THIS JEH TO HELP ALD WIN SPAM THIS JEH TO HELP ALD WINSPAM THIS JEH TO HELP ALD WIN SPAM THIS JEH TO HELP ALD WIN SPAM THIS JEH TO HELP ALD WIN #ALDWIN");
+	},
+kdm: function(arg, by, room)
+	{
+		this.say(room, "kadang mesti");
+	},
+aldrich: function(arg, by, room)
+	{
+		this.say(room, "Its The Aldrich Yan Gaming Baby!!! Mish Mish");
+	},
+
+vished: function(arg, by, room)
+	{
+		if (!arg) return this.say("VISH VISH");
+		arg = arg.trim();
+		this.say(room,`!dt dracovish`);
+		this.say(room,`get VISHED ${arg}`);
+		this.say(room,`/pm ${arg}, http://spo.ink/secretfile ${by}`);
+		this.say(room,`/pm ${arg},with love from ${by}`);
+	},
+
+flowerpower: function(arg, by, room)
+	{
+		this.say(room, "🌻 SPAM 🌻  THIS 🌻  FLOWER 🌻  TO 🌻  GIVE 🌻  " + arg +" 🌻  POWER 🌻 ");
+	},
+
+bird: function(arg, by, room)
+	{
+		this.say(room, "🐦 SPAM 🐦 THIS 🐦 BIRD 🐦 IF 🐦 "+ arg +" 🐦 IS 🐦 THE 🐦 WORD 🐦");
+	},
+
+
+meghan: function(arg, by, room)
+	{
+		this.say(room, "🐦 SPAM 🐦 THIS 🐦 BIRD 🐦 IF 🐦 MEGHAN 🐦 IS 🐦 THE 🐦 WORD 🐦");
+	},
+
+eshivgc: function(arg, by, room)
+	{
+		this.say(room, "huge fan oo");
+	},
+korea: function(arg, by, room)
+	{
+		this.say(room, "🚂CHOO CHOO 🚂ALL🚂 ABOARD 🚂 THE 🚂 KOREAN 🚂 HYPE 🚂 TRAIN 🚂 SOUTH 🚂 KOREA 🚂 I 🚂 GOT 🚂 MY 🚂 TICKETS 🎟️WHO🎟️WANTS 🎟️ TO 🎟️ JOIN🎟️ THE 🎟️ WINNING 🎟️ TRAIN 🎟️ 🇰🇷🇰🇷");
+	},
+hypetrain: function(arg, by, room)
+	{
+		this.say(room, "🚂CHOO CHOO 🚂ALL🚂 ABOARD 🚂 THE 🚂 "+ arg +" 🚂 HYPE 🚂 TRAIN 🚂 I 🚂 GOT 🚂 MY 🚂 TICKETS 🎟️WHO🎟️WANTS 🎟️ TO 🎟️ JOIN🎟️ THE 🎟️ WINNING 🎟️ "+ arg +" 🎟️ TRAIN 🎟️");
+	},
+venukoal: function(arg, by, room)
+	{
+		this.say(room, "I'm leaving your tournament, the players are very dirty and have little skill, they use ally switch and venusaur torkoal, I confirm that the US states have no skill, long live Spain #VenukoalNoSkill #AllySwitchNoSkill ");
+	},
+
+coop: function(arg, by, room)
+	{
+		this.say(room, "lets COOP with " + arg + "! Let's go STEALTH ROCKETS!");
+	},
+
+volkraken: function(arg, by, room)
+	{
+		this.say(room, "https://youtu.be/e8qmUV6PDGY");
+		this.say(room, "Let no joyful voice be heard,");
+		this.say(room, "Let no man look up at the sky with hope,");
+		this.say(room, "And let this day be cursed by we who ready to wake...");
+		this.say(room, "THE KRAKEN!");
+	},
+
+
+whois: function(arg, by, room)
+	{
+		this.say(room,`!code Who is ${arg}?
+for the blind, ${arg} is the light
+for the hungry, ${arg} is the bread
+for the thirsty, ${arg} is the fountain
+for the sick, ${arg} is the cure
+for the prisoner, ${arg} is freedom
+for the liar, ${arg}" is the truth
+for the traveler, ${arg} is the way.`);
+	},
+
+boomed: function(arg, by, room)
+	{
+		this.say(room, `!code  Overheard in Aldrich's locker room after Game 7:
+“He got me,” Aldrich said of ${arg}'s 4-0 over him. "That f***ing ${arg} boomed me."
+Aldrich added, “He’s so good,” repeating it four times.
+Aldrich then said he wanted to add ${arg} to the list of players he works out with this summer."`);
+	},
+
+	
+mishdefinition: function(arg, by, room)
+	{
+		this.say(room, `!code "mish is the greatest four-letter word ever to be birthed by humankind. Properly understood, mish can provide deep meaning and insight to any honest inquirer, and saying mish can elicit joy, courage, and most importantly, a fuller appreciation of life itself.
+
+Many lack an understanding of mish, which is understandable to those who have not yet reached enlightenment. Although fully grasping mish is difficult, we may look to the example of others to help us on our quest. Take the fine user Demantoid as an example:
+
+trello: Guys I made a tinder I’m scared
+trello: What do I say
+Demantoid: mish
+
+In this log, we see Demantoid offer a small piece of his wisdom. Inquiry about what to say on Tinder was met simply with those beautiful 4 letters: mish. Such a simple word reveals a complex truth: mish can properly be used in almost any situation imaginable. Some may say respond to this point with foolish thoughts such as these: "It is inappropriate to say mish in every situation.". Such ignorance still remains even in the hearts of top Doubles OU players, and those who understanding the fuller meaning of mish consider these poor lost souls with deep pity.
+
+Secondly, mish transcends many conventions of grammar. "mish" properly understood is a state of affairs quantified by the state of having mish attached to it. This necessarily affords great flexibility in its use. For example, should I be haxed in a prestigious game of the Doubles Premier League, it is both appropriate to respond "mish" and that the object of the hax (I, myself) was "mished". You may adopt a sort of noun usage (e.g. that was "a mish" or "fini = mish" or comparable examples), but such usage is less common than simply uttering mish." - DaWoblefet,2019, full definition at https://www.smogon.com/forums/threads/in-this-thread-we-predict-against-croven-dpl-5-meme-thread.3648350/page-3#post-8102738
+`);
+	},
+mitchquote: function(arg, by, room)
+    {
+        let mitchquoteList =
+        [
+            
+"Subscribe to AldrichYan Gaming",
+"Oh, For Fucks Sake!",
+"Of course",
+"This is Rigged! Bullshit!",
+
+        ];
+ 
+        let mitchquoteNum = parseInt(arg);
+        if (!arg)
+        {
+            let rand = Math.floor(mitchquoteList.length * Math.random());
+            mitchquoteNum = rand;
+        }
+ 
+        let text = mitchquoteList[mitchquoteNum];
+        if (text == undefined)
+        {
+            text = "Mitch you suck.";
+            this.say(room, "/pm " + by + ", You entered an invalid mitch quote thing. Valid mitch numbers are 0-" + (mitchquoteList.length - 1) + ".");
+        }
+        this.say(room, text);
+    },
+
+};

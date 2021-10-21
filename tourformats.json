@@ -1,0 +1,444 @@
+{
+	"gen8yaomingcup":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] Yao Ming Cup",
+        "tourrules": "-all pokemon, +silvally, +arctozolt, +dracovish, +rhyperior, +buzzwole, +lapras, +mamoswine, +scolipede, +tyrantrum, +mudsdale, +stonjourner, +beartic, +aurorus, +golurk, +coalossal, +weezing-galar, +thundurus-t, +drampa, +centiskorch, +falinks, +copperajah, +dragapult, +naganadel, +regigigas, +xurkitree, +sandaconda, +dhelmise, +dragonair, +lunala, +guzzlord, +stakataka, +milotic, +gyarados, +wishiwashi, +onix, +steelix, +celesteela, +exeggutor-alola, +wailord, -allyswitch, !Dynamax Clause",
+        "formatname": "VGC 2021 (Series 8)",
+        "formatDescription": "The Yao Ming Cup emcompasses a set of rules that are created by the one and only Yao Ming of The Boys Server.",
+        "sampleTeams":
+        [
+            ["centiskorch", "lapras", "celesteela", "thundurus-t", "naganadel", "milotic", "https://pokepast.es/584b448ab50df4f4", "Yao Ming Cup Sample 1"],
+            ["weezing-galar", "regigigas", "mamoswine", "dracovish", "stonjourner", "naganadel", "https://pokepast.es/093b23571e31a226", "Yao Ming Cup Sample 2"]
+        ],
+        "tournote": ""
+    },
+    "gen8vgc2021series11":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] VGC 2021 Series 11",
+        "tourrules": "!Dynamax Clause",
+        "formatname": "VGC 2021 (Series 8)",
+        "formatDescription": "VGC 2021 Series 8 / 11 allows all Pokemon that can be obtained with the Galar or battle-ready symbol in-game, including up to one restricted legendary Pokemon like Zacian, Kyogre, etc.",
+        "sampleTeams":
+        [
+            ["zaciancrowned", "dragapult", "incineroar", "amoonguss", "regieleki", "rotomwash", "https://pokepast.es/ca502485da226f85", "SNOW's 1st Place Terurun Challenge Team - modified"],
+            ["kyogre", "dragapult", "regieleki", "incineroar", "ferrothorn", "porygon2", "https://pokepast.es/887cc8c987525fc3", "AuraRayquaza / owe's 1st Place Desafio and Battle Train Team"],
+            ["groudon", "charizardgmax", "venusaurgmax", "grimmsnarl", "porygon2", "incineroar", "https://pokepast.es/ce5f734fa47c4419", "BattleRoom / ck49's 2x Top 6 PCIII NA Qualifier Team"],
+            ["zaciancrowned", "dragapult", "coalossalgmax", "urshifurapidstrike", "incineroar", "amoonguss", "https://pokepast.es/374c8fb6795d6a16", "Mike D'Angelo's 2nd Place VR Qualifier Team"],
+            ["calyrexice", "indeedeef", "incineroar", "mimikyu", "venusaurgmax", "torkoal", "https://pokepast.es/54ffba2ab35fd141", "Namuko Pro's Top 4 PCIII NA Qualifier Team"],
+            ["salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "https://victoryroadvgc.com/pokemon-sword-shield-rental-vgc-teams/", "More VGC 2021 Teams - Victory Road"],
+            ["koffing", "koffing", "koffing", "koffing", "koffing", "koffing", "https://www.smogon.com/forums/threads/series-8-sample-team-thread-accepting-submissions.3677426/", "More VGC 2021 Teams - Smogon"]
+        ],
+        "tournote": ""
+    },
+    "gen8vgc2021series10":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] VGC 2021 Series 10",
+        "tourrules": "",
+        "formatname": "VGC 2021 (Series 10)",
+        "formatDescription": "VGC 2021 Series 10 allowed all Pokemon that be obtained with the Galar or battle-ready symbol in-game, in addition to one restricted legendary Pokemon, like Zacian, Kyogre, Xerneas, etc. Dynamaxing is also prohibited.",
+        "sampleTeams": [
+            ["palkia", "landorustherian", "zapdos", "amoonguss", "stakataka", "incineroar", "https://pokepast.es/38285c011b520684", "Bro Kappa's 1st Place Victory Road World Cup Open Team"],
+            ["zaciancrowned", "urshifurapidstrike", "incineroar", "rillaboom", "regieleki", "landorus", "https://pokepast.es/818a391479bca54a", "Ghiso's Top 4 Victory Road World Cup Open Team"],
+            ["calyrexshadow", "tapulele", "whimsicott", "entei", "ditto", "urshifurapidstrike", "https://pokepast.es/077e68dfd0e335a1", "Human's Top 4 Victory Road World Cup Open Team"],
+            ["kyogre", "tornadus", "tsareena", "naganadel", "incineroar", "regieleki", "https://pokepast.es/ca72c17690afc7a5", "Chulainn's Top 8 Victory Road World Cup Open Team"],
+            ["xerneas", "volcarona", "rillaboom", "regieleki", "indeedeef", "incineroar", "https://pokepast.es/9248793c3b99c54b", "Frigo / Midnights's Top 4 Creators Cup III Team"],
+            ["salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "https://victoryroadvgc.com/pokemon-sword-shield-rental-vgc-teams/", "More VGC 2021 Teams - Victory Road"],
+            ["koffing", "koffing", "koffing", "koffing", "koffing", "koffing", "https://www.smogon.com/forums/threads/series-10-sample-teams-thread-submissions-open.3689153/", "More VGC 2021 Teams - Smogon"]
+        ],
+        "tournote": ""
+    },
+    "gen8vgc2021series9":
+    {
+        "tourformat": "gen8vgc2021series9",
+        "tourname": "[Gen 8] VGC 2021 Series 9",
+        "tourrules": "",
+        "formatname": "VGC 2021 (Series 9)",
+        "formatDescription": "VGC 2021 Series 7 & 9 allowed all Pokemon that can be obtained with the Galar or battle-ready symbol in-game, except restricted legendary Pokemon like Zacian, Kyogre, etc.",
+        "sampleTeams":
+        [
+            ["landorustherian", "incineroar", "regieleki", "tapufini", "moltresgalar", "amoonguss", "https://pokepast.es/f17d63f2040e92ed", "Prro-T's 1st Place Players Cup IV Team"],
+            ["landorustherian", "moltresgalar", "grimmsnarl", "spectrier", "registeel", "regieleki", "https://pokepast.es/6595dc82ca2ca20d", "Ilbona's 2nd Place Players Cup IV Team"],
+            ["blastoisegmax", "rillaboomgmax", "incineroar", "landorustherian", "registeel", "thundurus", "https://pokepast.es/368bf65e884becf6", "fevzioe's 3rd Place Players Cup IV Team"],
+            ["venusaurgmax", "torkoal", "grimmsnarl", "porygon2", "registeel", "landorustherian", "https://pokepast.es/933f7bc0d25d06dc", "Wilfire70's 4th Place Players Cup IV Team"],
+            ["coalossalgmax", "dragapult", "urshifurapidstrikegmax", "rillaboomgmax", "togekiss", "incineroar", "https://pokepast.es/8b7f59ae61fae0a6", "marc0fiero's 1st Place VR Circuit Spring Series Team"],
+            ["regieleki", "clefairy", "rillaboomgmax", "glastrier", "celesteela", "urshifugmax", "https://pokepast.es/9a51f8cd7c2d3de5", "Liakos's 1st Place Smogon Major Team"],
+            ["salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "https://victoryroadvgc.com/pokemon-sword-shield-rental-vgc-teams/", "More VGC 2021 Teams - Victory Road"],
+            ["koffing", "koffing", "koffing", "koffing", "koffing", "koffing", "https://www.smogon.com/forums/threads/series-9-sample-teams.3682855/", "More VGC 2021 Teams - Smogon"]
+        ],
+        "tournote": ""
+    },
+    "gen8vgc2020":
+    {
+        "tourformat": "gen8vgc2020",
+        "tourname": "[Gen 8] VGC 2020 Series 5",
+        "tourrules": "",
+        "formatname": "VGC 2020",
+        "formatDescription": "VGC 2020 allows all Pokemon that can be obtained with the Galar or battle-ready symbol in-game, except restricted legendary Pokemon like Zacian, Necrozma, etc., up until the Isle of Armor DLC (DLC1, Series 5).",
+        "sampleTeams":
+        [
+            ["dragapult", "togekiss", "tyranitar", "amoonguss", "excadrill", "incineroar", "https://pokepast.es/33ac4968f4c36ae2", "Desu's Top 4 EU Player's Cup Team"],
+            ["rillaboomgmax", "coalossalgmax", "urshifurapidstrikegmax", "incineroar", "togekiss", "dragapult", "https://pokepast.es/c080bfe204887ab8", "Santi's Top 4 NA Player's Cup Team"],
+            ["venusaurgmax", "charizardgmax", "torkoal", "dusclops", "togekiss", "incineroar", "https://pokepast.es/7498362692a9de5a", "Hamstermania's Top 4 EU Player's Cup Team"],
+            ["laprasgmax", "rillaboomgmax", "comfey", "incineroar", "goodra", "magnezone", "https://pokepast.es/9c60444056468b36", "mgmfa's Top 6 NA Player's Cup Team"],
+            ["cinderacegmax", "rillaboomgmax", "milotic", "tyranitar", "incineroar", "clefairy", "https://pokepast.es/1481948857a3d5b7", "Ezrael's Top 6 NA Player's Cup Team"],
+            ["rillaboomgmax", "urshifurapidstrikegmax", "porygonz", "duraludon", "togekiss", "talonflame", "https://pokepast.es/7ec261e1fc9bd3a8", "Namuko Pro's Top 16 NA Player's Cup Team"],
+            ["hatterenegmax", "dusclops", "rhyperior", "torkoal", "venusaurgmax", "indeedeef", "https://pokepast.es/2abb12ecc02f3618", "TobySxE's 1st Place Regionals Team"],
+            ["salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "https://victoryroadvgc.com/pokemon-sword-shield-rental-vgc-teams/", "More VGC 2020 Teams"]
+        ],
+        "tournote": ""
+    },
+    "gen7vgc2019ultraseries":
+    {
+        "tourformat": "gen7vgc2019",
+        "tourname": "[Gen 7] VGC 2019 Ultra Series",
+        "tourrules": "",
+        "formatname": "VGC 2019 Ultra Series",
+        "formatDescription": "Ultra Series allowed up to two restricted Pokemon, in addition to Mega Evolution, Primal Orbs, and Z-crystals, unlike previous series in VGC 2019.",
+        "sampleTeams":
+        [
+            ["groudonprimal", "lunala", "salamencemega", "incineroar", "tapufini", "stakataka", "https://pokepast.es/6ca7e058260024d2", "Penguin2142's 1st Place Worlds Team"],
+            ["kyogreprimal", "rayquazamega", "gengarmega", "incineroar", "celesteela", "tapukoko", "https://pokepast.es/1d1e4c277fc196ce", "Wolfe Glick's 1st Place US Internationals Team"],
+            ["xerneas", "kyogreprimal", "kartana", "tornadus", "amoonguss", "incineroar", "https://pokepast.es/fe935379b10de53a", "Jamesspeed1's Top 4 Worlds Team"],
+            ["xerneas", "rayquazamega", "nihilego", "incineroar", "tapufini", "amoonguss", "https://pokepast.es/2e2c22371e2cdcdd", "Pado's 1st Place Europe Internationals Team"],
+            ["xerneas", "groudonprimal", "kangaskhanmega", "mawilemega", "tornadus", "kommoo", "https://pokepast.es/245146eaaf615889", "Animus's Top 8 US Internationals Team"],
+            ["xerneas", "necrozmaultra", "salamencemega", "salazzle", "tapukoko", "breloom", "https://pokepast.es/f1696725b78505b3", "MrJellyLeggs's Top 16 Worlds Team"],
+            ["rhydon", "rhydon", "rhydon", "rhydon", "rhydon", "rhydon", "https://trainertower.com/vgc19-ultra-series-sample-teams/", "More Ultra Series Samples"]
+        ],
+        "tournote": ""
+    },
+    "gen7vgc2019moonseries":
+    {
+        "tourformat": "gen7vgc2019",
+        "tourname": "[Gen 7] VGC 2019 Moon Series",
+        "tourrules": "-Ultranecrozium Z, -Mega",
+        "formatname": "VGC 2019 Moon Series",
+        "formatDescription": "Moon Series allowed up to two restricted legendary Pokemon, and unlike Sun Series, Z-moves are allowed. However, Mega Evolutions, Primal Orbs, and Ultra Necrozma are all banned.",
+        "sampleTeams":
+        [
+            ["xerneas", "lunala", "smeargle", "incineroar", "stakataka", "tsareena", "https://pokepast.es/dcd39a7c47343e97", "EmbC's 1st Place Australia Internationals Team"],
+            ["xerneas", "groudon", "incineroar", "tapukoko", "amoonguss", "volcarona", "https://pokepast.es/219d14b47c930571", "Spurrific's Top 4 Australia Internationals Team"],
+            ["lunala", "groudon", "incineroar", "tapufini", "stakataka", "tsareena", "https://pokepast.es/e5fe7bd11d94cffd", "Lexicon's 2nd Place Regionals Team"],
+            ["kyogre", "hooh", "ludicolo", "raichu", "incineroar", "ferrothorn", "https://pokepast.es/e57dd4e6e100974d", "Weeblewobs's 1st Place Regionals Team"]
+        ],
+        "tournote": ""
+    },
+    "gen7vgc2019sunseries":
+    {
+        "tourformat": "gen7vgc2019",
+        "tourname": "[Gen 7] VGC 2019 Sun Series",
+        "tourrules": "-Mega, Z-Move Clause, -Oranguru + Symbiosis, -Passimian + Defiant, -Custap Berry, -Micle Berry, -Jaboca Berry, -Rowap Berry",
+        "formatname": "VGC 2019 Sun Series",
+        "formatDescription": "The first third of VGC 2019 was Sun Series. Like all three formats in VGC 2019, you can use up to two restricted legendary Pokemon per team (e.g. Kyogre, Xerneas, Lunala, etc.). However, all Z-moves, Mega Evolutions, and the Primal Orbs are banned.",
+        "sampleTeams":
+        [
+            ["xerneas", "lunala", "smeargle", "incineroar", "toxicroak", "crobat", "https://pokepast.es/2df03edea0be2ce3", "linkyoshimario's 1st Place Latam Internationals Team"],
+            ["xerneas", "kyogre", "incineroar", "amoonguss", "kartana", "tornadus", "https://pokepast.es/d51d9f1f9aeb7cd9", "GENGARboi's 1st Place Regionals Team"],
+            ["kyogre", "yveltal", "incineroar", "toxicroak", "stakataka", "tapulele", "https://pokepast.es/f1920b826ec13ed8", "Spurrific's 1st Place Regionals Team"],
+            ["xerneas", "groudon", "incineroar", "venusaur", "kartana", "heatran", "https://pokepast.es/e490e7d567ecfc72", "Angel Miranda's Top 4 Regionals Team"],
+            ["groudon", "yveltal", "incineroar", "venusaur", "stakataka", "tapukoko", "https://pokepast.es/48ba4f586289ec2b", "HamstermaniaCZ's Top 8 Regionals Team"],
+            ["salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "salamencemega", "https://victoryroadvgc.com/resources/sample-teams-for-vgc-2019-sun-series/", "More Sun Series Samples"]
+        ],
+        "tournote": ""
+    },
+    "gen7vgc2018":
+    {
+        "tourformat": "gen7vgc2018",
+        "tourname": "[Gen 7] VGC 2018",
+        "tourrules": "",
+        "formatname": "VGC 2018",
+        "formatDescription": "VGC 2018 was the National Pokedex format for Generation VII. The \"black clover\" rule ensured players could only use Pokemon obtained in Generation VII, which regrettably banned Unown, because it is obtainable in neither Sun/Moon nor Ultra Sun/Ultra Moon without transferring.",
+        "sampleTeams":
+        [
+            ["salamencemega", "tapukoko", "incineroar", "gastrodoneast", "snorlax", "kartana", "https://pokepast.es/ace78bf31ab5ab8c", "ralfdude90's 1st Place Worlds Team"],
+            ["metagrossmega", "zapdos", "tapufini", "amoonguss", "landorustherian", "incineroar", "https://pokepast.es/14f9a5ff2d99be8a", "Yuri Boschetto's Top 16 Worlds Team"],
+            ["kangaskhanmega", "heatran", "cresselia", "tapufini", "kartana", "landorustherian", "https://pokepast.es/e1e8250102b5ad35", "pwny person's Top 4 US Internationals Team"],
+            ["gengarmega", "kommoo", "tapubulu", "incineroar", "azumarill", "clefairy", "https://pokepast.es/731fdacb52678f83", "Jamesspeed1's 1st Place Regionals Team"],
+            ["gengarmega", "incineroar", "tapufini", "kartana", "landorustherian", "tyranitar", "https://pokepast.es/cbe0f7dad64383ec", "Animus's Top 16 US Internationals Team"],
+            ["charizardmegay", "landorustherian", "tapufini", "cresselia", "snorlax", "nihilego", "https://pokepast.es/3ab85ee4c78d34f9", "DaWoblefet's Top 16 US Internationals Team"]
+        ],
+        "tournote": ""
+    },
+    "gen7vgc2017":
+    {
+        "tourformat": "gen7vgc2017",
+        "tourname": "[Gen 7] VGC 2017",
+        "tourrules": "",
+        "formatname": "VGC 2017",
+        "formatDescription": "VGC 2017 was played on Pokemon Sun and Moon, and like VGC 2011 and VGC 2014 before it, it was the Regional Pokedex format of the generation. All USUM move tutor moves and other unreleased Abilities (e.g. Intimidate Incineroar) were disallowed. The new \"black clover\" replaced the old blue pentagon, forcing players to only use Pokemon obtained in Pokemon Sun and Moon for VGC 2017.",
+        "sampleTeams":
+        [
+            ["krookodile", "tapufini", "whimsicott", "marowakalola", "celesteela", "tapukoko", "https://pokepast.es/900155cf35b48481", "barudoru's 1st Place Worlds Team"],
+            ["garchomp", "mandibuzz", "tapulele", "xurkitree", "ninetalesalola", "arcanine", "https://pokepast.es/01839147b3ed34b8", "Zelda's 2nd Place Worlds Team"],
+            ["drifblim", "tapulele", "pheromosa", "garchomp", "gyarados", "magnezone", "https://pokepast.es/14c422f6a2a9599c", "SHADEviera's 1st Place ONOG Invitational Team"],
+            ["eevee", "smeargle", "clefairy", "whimsicott", "krookodile", "espeon", "https://pokepast.es/7ffe3560138f54a9", "Serapis's 1st Place Regionals Team"],
+            ["tapufini", "arcanine", "kartana", "tapukoko", "porygon2", "gigalith", "https://pokepast.es/2dc8dba415903a68", "Generic FAKEPG"],
+            ["ninetalesalola", "garchomp", "arcanine", "celesteela", "tapukoko", "snorlax", "https://pokepast.es/228cfcb0dfb47de6", "Generic Ninetales GACT"]
+		],
+        "tournote": ""
+    },
+    "gen6vgc2016":
+    {
+        "tourformat": "gen6vgc2016",
+        "tourname": "[Gen 6] VGC 2016",
+        "tourrules": "",
+        "formatname": "VGC 2016",
+        "formatDescription": "VGC 2016 was played in ORAS and allowed up to 2 restricted legendary Pokemon on a team, opening up the door to Primal Groudon, Primal Kyogre, Mega Rayquaza, Xerneas, and more.",
+        "sampleTeams":
+        [
+            ["kyogreprimal", "rayquazamega", "gengarmega", "hitmontop", "raichu", "bronzong", "https://pokepast.es/a5ae2ef12c116c9c", "Wolfey's 1st Place Worlds Team"],
+            ["groudonprimal", "xerneas", "kangaskhanmega", "thundurus", "bronzong", "hitmontop", "https://pokepast.es/fce8508852da17cb", "EmbC's Top 4 Worlds Team"],
+            ["groudonprimal", "xerneas", "salamencemega", "cresselia", "smeargle", "bronzong", "https://pokepast.es/601c5dc420a40b93", "Unreality's Top 8 Worlds Team"],
+            ["groudonprimal", "kyogreprimal", "kangaskhanmega", "salamencemega", "thundurus", "bronzong", "https://pokepast.es/9f1754c93f816a3c", "Velocity's Top 4 US Nationals Team"],
+            ["groudonprimal", "xerneas", "kangaskhanmega", "salamencemega", "smeargle", "talonflame", "https://pokepast.es/d64710292f98a6d6", "Generic Big 6"]
+        ],
+        "tournote": ""
+    },
+    "gen6vgc2015":
+    {
+        "tourformat": "gen6vgc2015",
+        "tourname": "[Gen 6] VGC 2015",
+        "tourrules": "",
+        "formatname": "VGC 2015",
+        "formatDescription": "VGC 2015 was Generation VI's National Pokedex format, played on ORAS. Like in 2014, the new blue pentagon rule only allowed Pokemon that were caught in Generation VI to be used.",
+        "sampleTeams":
+        [
+            ["kangaskhanmega", "cresselia", "heatran", "amoonguss", "landorustherian", "thundurus", "https://pokepast.es/ca89718c1c6e9077", "SHADEviera's 1st Place Worlds Team"],
+            ["gardevoirmega", "amoonguss", "thundurus", "landorustherian", "heatran", "tyranitar", "https://pokepast.es/7c3400921e6e41fa", "Scar's Top 8 Worlds Team"],
+            ["metagrossmega", "hydreigon", "thundurus", "landorustherian", "jellicent", "terrakion", "https://pokepast.es/33a335a3f3e37e05", "Braverius's 2nd Place Regionals Team"],
+            ["charizardmegay", "conkeldurr", "sylveon", "thundurus", "aegislash", "landorustherian", "https://pokepast.es/ccc18f1fa23e7dab", "Bopper's Top 4 US Nationals Team"],
+            ["gengarmega", "scrafty", "gothitelle", "dewgong", "clefairy", "arcanine", "https://pokepast.es/faea84a50bd5a971", "Dr. J's 1st Battle Spot Ladder Team"]
+        ],
+        "tournote": ""
+    },
+    "gen6vgc2014.5":
+    {
+        "tourformat": "gen6vgc2015",
+        "tourname": "[Gen 6] VGC 2014.5",
+        "tourrules": "Kalos Pokedex",
+        "formatname": "VGC 2014.5",
+        "formatDescription": "Like VGC 2014, you are only allowed to use Pokemon from the Kalos Pokedex. Unlike VGC 14, VGC 14.5 allows ORAS tutor moves (e.g. Hyper Voice Sylveon). This was played in late 2014 at Premier Challenges. Create teams for VGC 2014.5 by selecting \"[Gen 6] VGC 2015\" in the teambuilder.",
+        "sampleTeams":
+        [
+            ["charizardmegay", "mawilemega", "sylveon", "conkeldurr", "tyranitar", "zapdos", "https://pokepast.es/15301a4155f436a0", "Darkeness's PC Multi-1st Place Team"],
+	        ["kangaskhanmega", "garchomp", "sylveon", "gengar", "rotomheat", "salamence", "https://pokepast.es/84988d24b45184f7", "13Yoshi37's Arena Cup Bremen 1st Place Team"]
+        ],
+        "tournote": ""
+    },
+    "gen6vgc2014":
+    {
+        "tourformat": "gen6vgc2014",
+        "tourname": "[Gen 6] VGC 2014",
+        "tourrules": "",
+        "formatname": "VGC 2014",
+        "formatDescription": "VGC 2014 only allowed Pokemon from the Kalos Pokedex. Because VGC 2014 was on Pokemon X and Y, all ORAS Mega Evolutions and move tutor moves are banned. Additionally, the new \"blue pentagon\" rule only allowed players to use Pokemon obtained in X and Y.",
+        "sampleTeams":
+        [
+            ["gyaradosmega", "pachirisu", "gothitelle", "gardevoir", "garchomp", "talonflame", "https://pokepast.es/35e1f41321d981cd", "Sejun Park's 1st Place Worlds Team"],
+            ["charizardmegay", "lucariomega", "garchomp", "tyranitar", "salamence", "rotommow", "https://pokepast.es/d24b093c27d47ed5", "SoulSur's 2nd Place Worlds Team"],
+            ["kangaskhanmega", "mawilemega", "garchomp", "salamence", "rotomheat", "gengar", "https://pokepast.es/407035b849776583", "13Yoshi37's 1st Place German Nationals Team"],
+            ["kangaskhanmega", "politoed", "ludicolo", "talonflame", "aegislash", "hydreigon", "https://pokepast.es/7d9841644cefc2a5", "Evan Falco's 1st Place US Nationals Team"],
+            ["mawilemega", "politoed", "ludicolo", "gothitelle", "scrafty", "hydreigon", "https://pokepast.es/2b439540bae471c5", "Wolfey's 9th Place Worlds Team"],
+            ["tyranitarmega", "raichu", "azumarill", "amoonguss", "aegislash", "talonflame", "https://pokepast.es/986e23007de8f81b", "Baz Anderson's 1st Place NB Invitational Team"],
+            ["charizardmegay", "sawk", "weavile", "gengar", "aggron", "staraptor", "https://pokepast.es/c8c8278dda9fb868", "linkyoshimario's Top 16 Worlds Team"]
+        ],
+        "tournote": ""
+    },
+    "gen5vgc2013":
+    {
+        "tourformat": "gen5vgc2013",
+        "tourname": "[Gen 5] VGC 2013",
+        "tourrules": "",
+        "formatname": "VGC 2013",
+        "formatDescription": "The final year of VGC played in Generation V, VGC 2013 was a National Pokedex format that allowed the Therian formes of the Genies, BW2 move tutors, and all the released Hidden Abilities.",
+        "sampleTeams":
+        [
+            ["mamoswine", "tornadus", "latios", "amoonguss", "heatran", "conkeldurr", "https://pokepast.es/adae1559f253e904", "Mean's 1st Place Worlds Team"],
+            ["cresselia", "rotomwash", "landorustherian", "tyranitar", "conkeldurr", "heatran", "https://pokepast.es/5a030f66117a7096", "Cybertron's Top 4 Worlds Team"],
+            ["politoed", "kingdra", "hydreigon", "breloom", "scizor", "thundurus", "https://pokepast.es/eb2eb5cc8f0d4543", "Gini Rain, 1st Germany and Italy Nationals"],
+            ["tyranitar", "gyarados", "amoonguss", "cresselia", "thundurustherian", "excadrill", "https://pokepast.es/27fa3851f0feb27d", "Bopper's 1st Place NB Invitational Team"],
+            ["liepard", "scizor", "breloom", "cresselia", "terrakion", "thundurus", "https://pokepast.es/ad7be91ffa3f7a04", "Baz Anderson's 9th Place Worlds Team"]
+        ],
+        "tournote": ""
+    },
+    "gen5vgc2012":
+    {
+        "tourformat": "gen5vgc2012",
+        "tourname": "[Gen 5] VGC 2012",
+        "tourrules": "",
+        "formatname": "VGC 2012",
+        "formatDescription": "VGC 2012 was a National Pokedex format like 2013. It was played on Black and White, since BW2 had not been released yet outside of Japan. Notably, there was no access to Therian formes of the Genies, Hidden Abilities of the Genies, Breloom, Conkeldurr, and many other Unova Pokemon, and no access to BW2 move tutor moves.",
+        "sampleTeams":
+        [
+            ["cresselia", "metagross", "hydreigon", "garchomp", "tyranitar", "rotomwash", "https://pokepast.es/7b7face31d5575cf", "Ray Rizzo's 1st Place Worlds Team"],
+            ["garchomp", "hitmontop", "tyranitar", "thundurus", "scizor", "cresselia", "https://pokepast.es/0379951974375701", "Cybertron's 1st Place Seniors Nationals Team"],
+            ["cresselia", "thundurus", "latios", "hitmontop", "metagross", "tyranitar", "https://pokepast.es/ebdd1f8bd9d13dd7", "Flash's Top 4 Worlds Team"],
+            ["politoed", "kingdra", "cresselia", "metagross", "hydreigon", "hitmontop", "https://pokepast.es/69f483f1139856fc", "Skarm's 2nd Place CA Nationals team"],
+            ["abomasnow", "gyarados", "gastrodoneast", "rotomfrost", "scizor", "rhyperior", "https://pokepast.es/c26e627bbca8f11a", "Huy's 10th Place Worlds Team"] 
+        ],
+        "tournote": ""
+    },
+    "gen5vgc2011":
+    {
+        "tourformat": "gen5vgc2011",
+        "tourname": "[Gen 5] VGC 2011",
+        "tourrules": "",
+        "formatname": "VGC 2011",
+        "formatDescription": "VGC 2011 was played on Pokemon Black and White, and you could only use Pokemon from the Unova Pokedex. BW2 move tutor moves and most Hidden Abilities are banned, because they were unreleased at the time.",
+        "sampleTeams":
+        [
+            ["gothitelle", "thundurus", "terrakion", "hydreigon", "escavalier", "conkeldurr", "https://pokepast.es/81e1a1b26fbcf536", "Ray Rizzo's 1st Place Worlds Team"],
+            ["krookodile", "thundurus", "tornadus", "haxorus", "scrafty", "eelektross", "https://pokepast.es/6db94e5e6af31877", "Matty's 2nd Place Worlds Team"],
+            ["scrafty", "amoonguss", "jellicent", "tornadus", "terrakion", "thundurus", "https://pokepast.es/2d17b779cae664ef", "RubeNCB's Top 4 Worlds Team"],
+            ["amoonguss", "cofagrigus", "whimsicott", "gigalith", "jellicent", "conkeldurr", "https://pokepast.es/71bd8e687834292e", "CakeOfSpan's Regional Trick Room Team"],
+            ["whimsicott", "terrakion", "thundurus", "tornadus", "scrafty", "jellicent", "https://pokepast.es/683eed7f443c962e", "Generic TerraCott Team"]
+        ],
+        "tournote": ""
+    },
+    "gen4vgc2010":
+    {
+        "tourformat": "gen4vgc2010",
+        "tourname": "[Gen 4] VGC 2010",
+        "tourrules": "",
+		"formatname": "VGC 2010",
+        "formatDescription": "Two restricted Pokemon are allowed, with no Team Preview! Use [Gen 4] Doubles OU to create a team. Back in real VGC 2010, you could bring different Pokemon to a best-of-three set and even switch around items between games! You could also bring 4 restricted Pokemon, but of course could only use two in one game. On Showdown, you can only bring 4 Pokemon to a match, since there's no Team Preview and there's no support for choosing a Pokemon without Team Preview.",
+        "sampleTeams":
+        [
+            ["hariyama", "cresselia", "dialga", "kyogre", "unownx", "unownx", "https://pokepast.es/ff04471f648f6e55", "Ray Rizzo's 1st Place Worlds Team"],
+            ["infernape", "palkia", "kyogre", "ludicolo", "unownx", "unownx", "https://pokepast.es/eb72b59b84fadeb1", "Yasuki Tochigi's 2nd Place Worlds Team"],
+            ["groudon", "jumpluff", "dialga", "parasect", "unownx", "unownx", "https://pokepast.es/88de0f1e48cdd303", "Huy Ha's 5th Place Worlds Team"]
+
+        ],
+        "tournote": ""
+    },
+    "gen4vgc2009":
+    {
+        "tourformat": "gen4vgc2009",
+        "tourname": "[Gen 4] VGC 2009",
+        "tourrules": "",
+		"formatname": "VGC 2009",
+        "formatDescription": "National Dex in Gen 4, with no Team Preview! Autolevel scaling did not yet exist yet, so Pokemon like Tyranitar are not usable. Back in real VGC 2009, you could bring different Pokemon to a best-of-three set and even switch around items between games! On Showdown, you can only bring 4 Pokemon to a match, since there's no Team Preview and there's no support for choosing a Pokemon without Team Preview.",
+        "sampleTeams":
+        [
+            ["toxicroak", "empoleon", "snorlax", "salamence", "unownx", "unownx", "https://pokepast.es/e46408b6006bc2a9", "Kazayuki Tsuji's 1st Place Worlds Team"],
+            ["smeargle", "dusknoir", "snorlax", "spiritomb", "unownx", "unownx", "https://pokepast.es/e40f21a367dcdcd6", "Diesel's 2nd Place Regionals Team"],
+            ["zapdos", "garchomp", "metagross", "abomasnow", "unownx", "unownx", "https://pokepast.es/c1f8b8f932529500", "zerowing's 1st Place Regionals Team"]
+        ],
+        "tournote": ""
+    },
+    "gen8corsolacup":
+    {
+        "tourformat": "gen81v1",
+        "tourname": "[Gen 8] Corsola Cup",
+        "tourrules": "-All Pokemon, -Giga Drain, +Corsola, +Focus Sash, !Evasion Moves Clause, !Accuracy Moves Clause, !! Max Team Size = 1, !Picked Team Size, !Team Preview",
+        "formatname": "Corsola Cup",
+        "formatDescription": "Corsola only (Galar Corsola is allowed too)! Giga Drain is banned. Create teams in the [Gen 8] 1v1 format, and make sure it's level 100!",
+        "sampleTeams":
+        [
+            ["corsola", "corsola", "corsola", "corsola", "corsola", "corsola", "https://pokepast.es/89065509d6722ad6", "Choice Band Corsola"],
+            ["corsolagalar", "corsolagalar", "corsolagalar", "corsolagalar", "corsolagalar", "corsolagalar", "https://pokepast.es/c9bdc46dd5e049d4", "Bulky Setup Corsola"]
+        ],
+        "tournote": ""
+    },
+    "gen8bulucup":
+    {
+        "tourformat": "gen81v1",
+        "tourname": "[Gen 8] Bulu Bash",
+        "tourrules": "-All Pokemon, +Tapu Bulu, +Focus Sash, !Evasion Moves Clause, !Accuracy Moves Clause, !! Max Team Size = 1, !Picked Team Size, !Team Preview",
+        "formatname": "Bulu Bash",
+        "formatDescription": "Tapu Bulu only! Create teams in the [Gen 8] 1v1 format, and make sure it's level 100!",
+        "sampleTeams":
+        [
+            ["tapubulu", "tapubulu", "tapubulu", "tapubulu", "tapubulu", "tapubulu", "https://pokepast.es/5e8781c9ecf2200e", "Choice Band Tapu Bulu"]
+        ],
+        "tournote": ""
+    },
+    "gen8craboff":
+    {
+        "tourformat": "gen8vgc2021series9",
+        "tourname": "[Gen 8] Crab Off VGC",
+        "tourrules": "-All Pokemon, +Armaldo, +Clawitzer, +Crawdaunt, +Crustle, +Kingler, +Anorith, +Clauncher, +Corphish, +Krabby, +Dwebble, +Regidrago, !species clause, !item clause",
+        "formatname": "Crab Off",
+        "formatDescription": "Crab Off! No Species or Item Clause! Legal Pokemon are: Armaldo, Clawitzer, Crawdaunt, Crustle, Kingler, Regidrago, and their pre-evolutions.",
+        "sampleTeams":
+        [
+            ["regidrago", "regidrago", "regidrago", "regidrago", "crustle", "clawitzer", "https://pokepast.es/00a55ec41bb676a1", "6 crabs"]
+        ],
+        "tournote": ""
+    },
+    "gen8chanseyclash":
+    {
+        "tourformat": "gen81v1",
+        "tourname": "[Gen 8] Chansey Clash",
+        "tourrules": "-All Pokemon, +Chansey, +Focus Sash, +Focus Band, +Bright Powder, +Lax Incense, +Quick Claw, -Recycle, !Accuracy Moves Clause, !Endless Battle Clause, !! Max Team Size = 1, !Picked Team Size, !Team Preview",
+        "formatname": "Chansey Clash",
+        "formatDescription": "Chansey Clash! Only Chansey is allowed. Evasion moves and Recycle are also not allowed.",
+        "sampleTeams":
+        [
+            ["chansey", "chansey", "chansey", "chansey", "chansey", "chansey", "https://pokepast.es/4a83b00bd7b03417", "Stored Power Chansey"],
+            ["chansey", "chansey", "chansey", "chansey", "chansey", "chansey", "https://pokepast.es/a4876c557e6a5ba0", "Laser Focus Drain Punch Chansey"],
+            ["chansey", "chansey", "chansey", "chansey", "chansey", "chansey", "https://pokepast.es/5b8d35bc148dd168", "Uproar Toxic Chansey"],
+            ["chansey", "chansey", "chansey", "chansey", "chansey", "chansey", "https://pokepast.es/0feaf85b93fcd69b", "Paraflinch Chansey"]
+        ],
+        "tournote": ""
+    },
+    "gen8inversevgc":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] VGC 2021 Inverse Battle",
+        "tourrules": "inverse mod",
+        "formatname": "",
+        "formatDescription": "",
+        "sampleTeams": [],
+        "tournote": "VGC Inverse Battles! Type matchups are inverted. Now Fire-type attacks are super-effective against Water-type Pokemon!"
+    },
+    "gen8vgc2021nodynamax":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] VGC 2021 (No Dynamax)",
+        "tourrules": "Dynamax Clause",
+        "formatname": "",
+        "formatDescription": "",
+        "sampleTeams": [],
+        "tournote": "VGC 2021, but with no Dynamax or Gigantamax allowed!"
+    },
+    "gen8gscup":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] GS Cup",
+        "tourrules": "!Limit One Restricted, Limit Two Restricted, * Restricted Legendary, !Dynamax Clause",
+        "formatname": "",
+        "formatDescription": "",
+        "sampleTeams": [],
+        "tournote": "VGC 2021, but two restricted legendary Pokemon are allowed!"
+    },
+    "gen8series99":
+    {
+        "tourformat": "gen8vgc2021series10",
+        "tourname": "[Gen 8] VGC Series 99",
+        "tourrules": "!Limit One Restricted, !Dynamax Clause, +Mythical, +Restricted Legendary, !! Min Source Gen = 5",
+        "formatname": "",
+        "formatDescription": "",
+        "sampleTeams": [],
+        "tournote": "Series 99! Use as many Mythical and Restricted Pokemon as you like!"
+    },
+
+    
+    "gen8vgchackmons":
+    {
+        "tourformat": "gen8vgc2021series9",
+        "tourname": "[Gen 8] VGC Pure Hackmons",
+        "tourrules": "-Nonexistent, !Obtainable Moves, !Obtainable Abilities, !Obtainable Formes, !EV Limit, +Mythical, +Restricted Legendary, !!Min Source Gen = 1, !Species Clause, !Item Clause",
+        "formatname": "VGC Pure Hackmons",
+        "formatDescription": "Anything that can be hacked in-game and is usable in local battles is allowed, but it's VGC style! Bring 6, pick 4, level 50, doubles. Make sure you give your Pokemon 252 EVs in every stat! To do this in the teambuilder, you have to manually type out 252 (you can't use the sliders).",
+        "sampleTeams":
+        [
+            ["regieleki", "eternatuseternamax", "kyuremwhite", "eternatuseternamax", "calyrexshadow", "zaciancrowned", "https://pokepast.es/c534f2e55d7ec1f8", "DaWoblefet's Shell Smash redirection offense"],
+            ["regieleki", "regieleki", "shedinja", "eternatuseternamax", "calyrexshadow", "zaciancrowned", "https://pokepast.es/bd902388c2d7eec2", "DaWoblefet's Neutralizing Gas Killer + Shedinja"],
+            ["regieleki", "eternatuseternamax", "eternatuseternamax", "eternatuseternamax", "dialga", "calyrexshadow", "https://pokepast.es/d579b774de88cd1c", "Hamstermania's Scarf Eleki Shell Smash"]
+        ],
+        "tournote": ""
+    }
+}
